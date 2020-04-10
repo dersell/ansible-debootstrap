@@ -30,8 +30,9 @@ mirrors:
   xenial: http://archive.ubuntu.com/ubuntu
   bionic: http://archive.ubuntu.com/ubuntu
   eoan: http://archive.ubuntu.com/ubuntu
+  focal: http://archive.ubuntu.com/ubuntu
 
-supported_releases: ['stretch', 'buster', 'bionic', 'disco', 'eoan']
+supported_releases: ['stretch', 'buster', 'bionic', 'disco', 'eoan', 'focal']
 
 _target_devices: []
 _devices_used: []
